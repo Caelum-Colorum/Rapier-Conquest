@@ -1,7 +1,3 @@
-"""This file currently contains a base class for enemies and one enemy subclass. More enemies will be added later,
-Seperated by what type of area they can spawn in.(e.g. forest, plains, ruins, dungeons, catacombs, cites, ect.)
-Enemies that will spawn in multiple or all places will be placed in this main enemies file."""
-
 class Enemy():
     def __init__(self, name, description, hp, statusEff):
         self.name = name
