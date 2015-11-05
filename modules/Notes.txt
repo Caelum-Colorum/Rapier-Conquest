@@ -1,0 +1,12 @@
+My Web page design "Teacher" is being an extreme bitch.
+ToDo: Take out frustration with easter egg or
+represent with NPC
+
+Potions will not be in glass vials, rather 
+some container more along the lines of an old
+soup can.
+
+Combat will not have preset damage values, rather
+a critical hit and random damage system will be
+used.
+
